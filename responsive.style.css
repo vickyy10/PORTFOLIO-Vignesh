@@ -1,0 +1,123 @@
+@media ( max-width:991px) {
+
+    section{
+        
+    }
+    h1{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    h4{
+        font-size: 20px;
+    }
+   
+    
+}
+@media ( max-width:767px) {
+    
+    h1{
+      
+        font-size: 25px;
+        line-height: 15px;
+    }
+    h4{
+      
+        font-size: 20px;
+    }
+    p{
+        
+        font-size: 13px;
+       
+    }
+ 
+   .image{
+        position: absolute;
+        
+    }
+    .imgr{
+        transform: scale(0px), .3s;
+        width: 0px;
+    }
+    .home__social{
+        position: absolute;
+        top: 150px;
+
+    }
+    .scroll-dwn{
+        position: absolute;
+        font-size: 0px;
+    }
+    .aboutimg{
+        transform: scale(0px), .3s;
+
+    }
+    .about__img{
+        position: absolute;
+        top: -380px;
+        width: 300px;
+        left: -25%;
+    }
+    .mainabt{
+        position: absolute;
+        top: 800px;
+        text-align: center;
+        margin-left: 25px;
+        
+    }
+    .abttext p{
+        position: absolute;
+        width: 200px;
+        height: 300px;
+        text-align: center;
+        
+        margin-left: 160px;
+        margin-top: -60px;
+    }
+    .about__info{
+        background-color: bisque;
+        position: absolute;
+        margin-top: 140px;
+        margin-left: 200px;
+        display: grid;
+        padding: 20px;
+        border-radius: 20px;
+        
+        row-gap: 20px;
+        
+    }
+    .main2{
+        position: absolute;
+    margin-top: 70px;
+    
+    }
+    .project2{
+        background-color: aqua;
+    }
+    .fb{
+        left: 20px;
+        top: 400px;
+        background-color: beige;
+        position: absolute;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .project3{
+        position: absolute;
+    }
+    .w3pic{
+        position: absolute;
+        padding: 30px;
+        left: 20px;
+        top: 800px;
+    }
+   
+
+
+
+    
+    
+}
+
+
